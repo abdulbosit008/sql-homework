@@ -62,3 +62,5 @@ insert into StudentID (StudentID, Name, Age) values
 (4, 'Olim', 24)
 
 select * from StudentID
+--9
+--Men bu 9-homework ni laptopda qildim
